@@ -97,3 +97,11 @@ Public dataset available on Kaggle.
 
 Sheldon Dsouza  
 Data Analytics | Business Intelligence | Python | Power BI
+
+## 📊 Dashboard Preview
+
+### Overview
+![Dashboard Overview](images/img1.png → Sales performance overview)
+
+### Segment Analysis
+![Segment Analysis]images/img2.png → Customer segmentation (with pie chart)
