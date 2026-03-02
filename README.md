@@ -103,10 +103,13 @@ Data Analytics | Business Intelligence | Python | Power BI
 ### Overview
 This page shows overall business performance including total revenue, orders, AOV, and delivery time.
 It also highlights revenue trends over time and compares performance across states.
-![Dashboard Overview](images/img1.png → Sales performance overview)
+![Dashboard Overview]
+(images/img1.png)
 
 ### Segment Analysis
 This page focuses on customer segmentation using RFM analysis.
 It breaks down revenue contribution, customer lifetime value, and repeat rate across different customer segments.
-![Segment Analysis]images/img2.png → Customer segmentation (with pie chart)
+![Segment Analysis]
+(images/img2.png)
+
 
